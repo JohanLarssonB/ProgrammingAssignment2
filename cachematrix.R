@@ -3,7 +3,7 @@
 ## with the matrix in a list. If there is subsequent calls 
 ## to the function that calculates the inverse, and the matrix
 ## has not changed, the cached inverse is used instead of
-## recaluclating the inverse again.
+## re-caluclating the inverse again.
 
 ## makeCacheMatrix is the constructor of the list with four
 ## functions to set and get the matrix and the inverse.
